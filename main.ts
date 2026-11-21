@@ -1,12 +1,11 @@
-// A working best-game-01 entry (Node 22, standard library only): the game is this directory's
-// game/ folder, plain static files a desktop browser loads offline (game/index.html and its ES
-// modules, no library and no network request), and the program hands it in. It copies game/ and
-// screenshots/ from beside this file to /output and writes /output/dossier.json, the summary the
-// judge reads, with the vendored make.fun library. A starting point, not a winner: Block Dodger, a
-// plain 2D canvas game where a paddle dodges falling blocks and catches coins, with a title screen,
-// score, lives and levels, game over and restart, flat colours and no sound. Build your own game
-// (any genre, any library you vendor under game/, or none), put your 3 or 4 PNG or JPEG screenshots
-// in screenshots/ (the first by name is the cover) and run it.
+// Twin Lanterns, an original spot-the-difference game for the make.fun bounty: six hand-composed
+// night scenes of a floating river town, drawn as layered SVG by the code in game/src/scenes and
+// game/src/sceneKit.js. Two panels show the same scene, one with data-defined changes; players find
+// each change with mouse or keyboard, racing a lantern-light timer with hints, combos and a 2x lens.
+// The game is this directory's game/ folder: plain static files with no build step and no network
+// requests, opened directly in a desktop browser. This program copies game/ and screenshots/ beside
+// this file to the output directory and writes dossier.json, the deterministic summary the judge
+// reads, with the vendored make.fun library. The cover screenshot is screenshots/1-hunt.jpg.
 //
 // Serve it locally with `node serve.ts`, then open http://localhost:8080.
 // Outside the grader's container, MAKEFUN_OUTPUT_DIR stands in for /output:
