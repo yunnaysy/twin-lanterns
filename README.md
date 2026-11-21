@@ -1,5 +1,12 @@
 # Twin Lanterns
 
+[![make.fun · best-spot-the-difference-game-20261121-0451](https://make.fun/badge/best-spot-the-difference-game-20261121-0451.svg)](https://make.fun/bounty/best-spot-the-difference-game-20261121-0451?utm_source=github&utm_medium=readme&utm_campaign=best-spot-the-difference-game-20261121-0451)
+[![rank](https://make.fun/badge/best-spot-the-difference-game-20261121-0451/yunnaysy/twin-lanterns/rank.svg)](https://make.fun/bounty/best-spot-the-difference-game-20261121-0451/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-spot-the-difference-game-20261121-0451)
+[![reward](https://make.fun/badge/best-spot-the-difference-game-20261121-0451/yunnaysy/twin-lanterns/reward.svg)](https://make.fun/bounty/best-spot-the-difference-game-20261121-0451?utm_source=github&utm_medium=readme&utm_campaign=best-spot-the-difference-game-20261121-0451)
+
+Built for make.fun's bounty: https://make.fun/bounty/best-spot-the-difference-game-20261121-0451
+Live demo: https://yunnaysy.github.io/twin-lanterns/
+
 An original spot-the-difference game set in a floating river town at Lantern Festival night. Six illustrated scenes — Harbour Gate, Noodle Market, Kite Bridge, Moon Pagoda, Lotus Pond and Fireworks Pier — are drawn entirely in code as layered SVG: moonlit skies, tiled rooftops, arched bridges, boats, kites, paper lanterns, fish, lotus flowers, fireworks and their reflections on the water.
 
 Two equal panels show the same scene. The right panel has a handful of visible changes: an object removed, a colour swapped, a stripe count altered, a reflection gone wrong. Find every change before the lantern light runs out.
